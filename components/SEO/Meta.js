@@ -5,20 +5,20 @@ export default function Meta() {
   return (
     <Head>
       /* Primary Meta Tags */
-      <title>Aiden Mori Portfolio - Web & Blockchain Engineer</title>
+      <title>Chavis Mori Portfolio - Web & Blockchain Engineer</title>
       <meta charSet="utf-8" />
       <meta
         name="title"
-        content="Aiden Mori Portfolio - Web & Blockchain Engineer"
+        content="Chavis Mori Portfolio - Web & Blockchain Engineer"
       />
       <meta
         name="description"
-        content="Aiden Mori's (aiden77mori) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Chavis Mori's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
-      <meta name="author" content="Aiden Mori (aiden77mori)" />
+      <meta name="author" content="Chavis Yang (chavis77yang)" />
       <meta
         name="keywords"
-        content="aiden77mori, aiden77mori's portfolio, blockchain, engineer, web, smart contract engineer, smart contract, solidity, react, web3.js, aiden77mori linux, ubuntu portfolio, aiden mori protfolio, aiden mori computer, aiden mori, aiden ubuntu, aiden mori ubuntu portfolio"
+        content="chavis77yang, chavis77yang's portfolio, blockchain, engineer, web, smart contract engineer, smart contract, solidity, react, web3.js, chavis77yang linux, ubuntu portfolio, Chavis Yang protfolio, Chavis Yang computer, Chavis Yang, chavis ubuntu, Chavis Yang ubuntu portfolio"
       />
       <meta name="robots" content="index, follow" />
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
@@ -30,38 +30,38 @@ export default function Meta() {
       /* Schema.org for Google */
       <meta
         itemProp="name"
-        content="Aiden Mori Portfolio - Web & Blockchain Engineer"
+        content="Chavis Yang Portfolio - Web & Blockchain Engineer"
       />
       <meta
         itemProp="description"
-        content="Aiden Mori's (aiden77mori) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Chavis Yang's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
       <meta itemProp="image" content="images/logos/aidenmori.png" />
       /* Twitter */
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:title"
-        content="Aiden Mori Portfolio - Web & Blockchain Engineer"
+        content="Chavis Yang Portfolio - Web & Blockchain Engineer"
       />
       <meta
         name="twitter:description"
-        content="Aiden Mori's (aiden77mori) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Chavis Yang's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
-      <meta name="twitter:site" content="aiden77mori" />
-      <meta name="twitter:creator" content="aiden77mori" />
+      <meta name="twitter:site" content="chavis77yang" />
+      <meta name="twitter:creator" content="chavis77yang" />
       <meta name="twitter:image:src" content="images/logos/aidenmori.png" />
       /* Open Graph general (Facebook, Pinterest & Google+) */
       <meta
         name="og:title"
-        content="Aiden Mori Portfolio - Web & Blockchain Engineer"
+        content="Chavis Yang Portfolio - Web & Blockchain Engineer"
       />
       <meta
         name="og:description"
-        content="Aiden Mori's (aiden77mori) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Chavis Yang's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
       <meta name="og:image" content="images/logos/aidenmori.png" />
       <meta name="og:url" content="http://aiden77mori.github.io/" />
-      <meta name="og:site_name" content="Aiden Mori Personal Portfolio" />
+      <meta name="og:site_name" content="Chavis Yang Personal Portfolio" />
       <meta name="og:locale" content="en_IN" />
       <meta name="og:type" content="website" />
       <link rel="icon" href="images/logos/aidenmori.png" />

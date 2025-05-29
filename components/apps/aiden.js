@@ -67,7 +67,7 @@ export class AboutAiden extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="aiden vivek"
+            alt="chavis yang"
             src="./themes/Yaru/status/about.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">About Me</span>
@@ -85,7 +85,7 @@ export class AboutAiden extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="aiden' education"
+            alt="chavis' education"
             src="./themes/Yaru/status/education.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Education</span>
@@ -103,7 +103,7 @@ export class AboutAiden extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="aiden' history"
+            alt="chavis' history"
             src="./themes/Yaru/status/work-history.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Experience</span>
@@ -214,12 +214,12 @@ function About() {
         <img
           className="w-full rounded-full"
           src="./images/logos/aidenmori.png"
-          alt="Aiden Mori Logo"
+          alt="Chavis Yang Logo"
         />
       </div>
       <div className=" mt-2 text-lg md:text-2xl text-center px-1">
         <div>
-          My name is <span className="font-bold">Aiden</span> ,
+          My name is <span className="font-bold">Chavis</span> ,
         </div>
         <div className="font-normal ml-1">
           <span className="text-pink-600 font-bold">
@@ -249,7 +249,7 @@ function About() {
           height={25}
           className="cursor-pointer"
           onClick={() =>
-            window.open("https://discord.com/users/aiden77mori", "_blank")
+            window.open("https://discordapp.com/users/1250529763827908649", "_blank")
           }
         />
         <Image
@@ -258,7 +258,7 @@ function About() {
           width={25}
           height={25}
           className="cursor-pointer"
-          onClick={() => window.open("https://t.me/evw77", "_blank")}
+          onClick={() => window.open("https://t.me/devfancyocean58/evw77", "_blank")}
         />
         <Image
           src="/images/logos/email.svg"
@@ -266,7 +266,7 @@ function About() {
           width={25}
           height={25}
           className="cursor-pointer"
-          onClick={() => window.open("mailto:aiden77mori@gmail.com", "_blank")}
+          onClick={() => window.open("mailto:chavis.y0807@gmail.com", "_blank")}
         />
       </div>
       <ul className=" my-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
@@ -692,46 +692,46 @@ function Skills() {
             <img
               className="m-1"
               src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"
-              alt="aiden javascript"
+              alt="chavis javascript"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Typescript-3178c6?style=flat&logo=typescript&logoColor=ffffff"
-              alt="aiden typescript"
+              alt="chavis typescript"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/-Solidity-ffffff?style=flat&logo=solidity&logoColor=000000&labelColor=%000000"
-              alt="aiden solidity"
+              alt="chavis solidity"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"
-              alt="aiden c++"
+              alt="chavis c++"
             />
             <img
               className="m-1"
               src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff"
-              alt="aiden python"
+              alt="chavis python"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"
-              alt="aiden dart"
+              alt="chavis dart"
             />
             <img
               src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff"
-              alt="aiden SASS"
+              alt="chavis SASS"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff"
-              alt="aiden git"
+              alt="chavis git"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff"
-              alt="aiden firebase"
+              alt="chavis firebase"
               className="m-1"
             />
           </div>
@@ -741,82 +741,82 @@ function Skills() {
             <img
               className=" m-1"
               src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=ffffff"
-              alt="aiden next"
+              alt="chavis next"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff"
-              alt="aiden react"
+              alt="chavis react"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Angular-dd0031?style=flat&logo=angular&logoColor=ffffff"
-              alt="aiden angular"
+              alt="chavis angular"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat&logo=svelte&logoColor=ffffff"
-              alt="aiden svelte"
+              alt="chavis svelte"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Remix-00ccbb?style=flat&logo=remix&logoColor=000000"
-              alt="aiden remix"
+              alt="chavis remix"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Web3JS-f16822?style=flat&logo=Web3.js&logoColor=ffffff"
-              alt="aiden web3"
+              alt="chavis web3"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-Hardhat-c5d11700?style=flat&logo=ethereum&logoColor=ffffff"
-              alt="aiden hardhat"
+              alt="chavis hardhat"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white"
-              alt="aiden react native"
+              alt="chavis react native"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Ionic-3880ff?style=flat&logo=ionic&logoColor=white"
-              alt="aiden ionic framework"
+              alt="chavis ionic framework"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"
-              alt="aiden flutter"
+              alt="chavis flutter"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"
-              alt="aiden tailwind css"
+              alt="chavis tailwind css"
             />
             <img
               src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.js&logoColor=ffffff"
-              alt="aiden node.js"
+              alt="chavis node.js"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/-ExpressJS-339933?style=flat&logo=Node.js&logoColor=ffffff"
-              alt="aiden express.js"
+              alt="chavis express.js"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"
-              alt="aiden jquery"
+              alt="chavis jquery"
               className="m-1"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"
-              alt="aiden redux"
+              alt="chavis redux"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Docker-02569B?style=flat&logo=docker&logoColor=white"
-              alt="aiden docker"
+              alt="chavis docker"
             />
           </div>
         </div>
@@ -1853,7 +1853,7 @@ function Projects() {
       name: "Facial Recognize",
       date: "Feb 2020",
       imgUrl: "./images/projects/facial-recognize.webp",
-      link: "https://github.com/aiden77mori/facial-recognization",
+      link: "https://github.com/ChavisYang/face-recognization",
       description: [
         <p>Face dectection project using face-api.js</p>,
         <p>API integration with react</p>,
@@ -2169,7 +2169,7 @@ function Resume() {
     <iframe
       className="h-full w-full"
       src="./files/PResume.pdf"
-      title="aiden mori resume"
+      title="chavis yang resume"
       frameBorder="0"
     ></iframe>
   );

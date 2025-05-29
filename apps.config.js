@@ -13,7 +13,7 @@ import { displayTerminalCalc } from "./components/apps/calc";
 const apps = [
   {
     id: "about-aiden",
-    title: "About Aiden",
+    title: "About Chavis",
     icon: "./images/logos/aidenmori.png",
     disabled: false,
     favourite: true,
