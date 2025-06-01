@@ -5,15 +5,15 @@ export default function Meta() {
   return (
     <Head>
       /* Primary Meta Tags */
-      <title>Chavis Mori Portfolio - Web & Blockchain Engineer</title>
+      <title>Chavis Yang Portfolio - Web & Blockchain Engineer</title>
       <meta charSet="utf-8" />
       <meta
         name="title"
-        content="Chavis Mori Portfolio - Web & Blockchain Engineer"
+        content="Chavis Yang Portfolio - Web & Blockchain Engineer"
       />
       <meta
         name="description"
-        content="Chavis Mori's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Chavis Yang's (chavis77yang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
       <meta name="author" content="Chavis Yang (chavis77yang)" />
       <meta
