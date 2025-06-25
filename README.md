@@ -3,6 +3,10 @@
 This is a personal portfolio website with an Ubuntu 20.04 theme, made using Next.js & Tailwind CSS.
 If you want to edit this, clone this project and edit the files in the [`/src/components`](/src/components) directory.
 
+![Ubuntu 20.04 Theme](https://ubuntu.com/blog/wp-content/uploads/5d14/focal-fossa-wallpaper-1.jpg)
+
+> Experience the familiar Ubuntu desktop environment in your browser!
+
 ## Getting Started
 
 To run this on localhost:
